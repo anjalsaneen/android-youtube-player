@@ -28,7 +28,7 @@ ext.versions = [
         androidxLifecycleRuntime        : '2.1.0',
 
         // Google Play
-        googlePlayServicesCastFramework : '16.1.2',
+        googlePlayServicesCastFramework : '19.0.0',
 
         // Google APIs
         googleApiClientAndroid          : '1.23.0',
